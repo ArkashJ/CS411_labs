@@ -12,7 +12,6 @@ I hope everyone finds this course enjoyable!
 |--- README.md
 |--- lab1
 |    |--- lab1.pdf
-|    |--- lab1.ipynb
 |    |--- lab1.py
 |--- LICENSE
 |--- .gitignore
