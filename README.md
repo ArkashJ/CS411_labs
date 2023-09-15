@@ -17,3 +17,5 @@ I hope everyone finds this course enjoyable!
 |--- .gitignore
 
 ```
+
+OH Friday 1:15-2:15pm
