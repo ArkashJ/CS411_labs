@@ -21,19 +21,19 @@ class MathOps:
 def main():
     stk = ['+', '-', '*']
     ops = MathOps()
-
-    nums = [1, 2, 3, 4, 5]
-    ans = 0
-    for op in stk:
-        if op == '+':
-           ans += ops.add(nums.pop(), nums.pop())
-        elif op == '-':
-            ans += ops.sub(nums.pop(), nums.pop())
-        elif op == '*':
-            ans += ops.mul(nums.pop(), nums.pop())
-        elif op == '/':
-            continue
-    
-    print(ans)
-
+    print("hello")
+    # nums = [1, 2, 3, 4, 5]
+    # ans = 0
+    # for op in stk:
+    #     if op == '+':
+    #        ans += ops.add(nums.pop(), nums.pop())
+    #     elif op == '-':
+    #         ans += ops.sub(nums.pop(), nums.pop())
+    #     elif op == '*':
+    #         ans += ops.mul(nums.pop(), nums.pop())
+    #     elif op == '/':
+    #         continue
+    # 
+    # print(ans)
+    #
 main()
