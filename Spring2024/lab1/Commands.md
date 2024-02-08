@@ -138,6 +138,7 @@ git diff <file>
 3. Pull the latest changes weekly
 
 ### TODO
-
 - https://learngitbranching.js.org/?locale=en_US
 - Fun test: to change the language of the url, replace en with ko
+
+
