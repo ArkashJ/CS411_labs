@@ -15,7 +15,6 @@ function App() {
         </Button> 
         
       </Stack>
-    <ListIngredients />
       <div>
         <News />
       </div>
