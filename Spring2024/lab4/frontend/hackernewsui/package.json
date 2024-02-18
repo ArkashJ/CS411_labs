@@ -1,5 +1,5 @@
 {
-  "name": "lab4",
+  "name": "hackernewsui",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -10,6 +10,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "axois": "^0.0.1-security",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
