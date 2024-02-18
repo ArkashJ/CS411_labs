@@ -1,7 +1,6 @@
 from diagrams import Cluster, Diagram
 from diagrams.generic.network import Switch
 from diagrams.onprem.client import User
-from diagrams.onprem.compute import Server
 from diagrams.onprem.database import MongoDB
 from diagrams.programming.framework import React
 from diagrams.programming.language import Nodejs

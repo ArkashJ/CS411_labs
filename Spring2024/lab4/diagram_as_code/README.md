@@ -20,3 +20,5 @@ brew install graphviz
 ```bash
 python3 diagram_code.py
 ```
+
+Check out diagrams - https://diagrams.mingrammer.com/docs/guides/edge
