@@ -1,18 +1,18 @@
 body {
   font-family: Arial, sans-serif;
   margin: 40px;
-  background-color: #f0f0f0;
+  background-color: #000000;
 }
 
 h1 {
-  color: #333;
+  color: #fff;
 }
 
 p {
   background-color: #fff;
   padding: 20px;
   width: 300px;
-  border-radius: 5px;
+  border-radius: 15px;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
 
